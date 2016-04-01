@@ -1,0 +1,41 @@
+1、Package Control
+
+CTRL+` 出现控制台 粘贴以下代码至控制台
+
+import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())
+
+2、Emmet
+
+3、JSFormat
+
+4、Bracket Highlighter
+
+5、jQuery
+
+6、Doc​Blockr
+
+7、ConvertToUTF8
+
+8、AutoFileName
+
+9、IMESupport
+
+10、css3
+
+11、scss
+
+12、cssFormat
+
+13、less
+
+14、git
+
+15、gitignore
+
+16、nodeJs
+
+17、FileDiffs
+
+18、markDown Editing
+
+19、OmniMarkupPreviwer
