@@ -17,4 +17,4 @@ sublime text 3版本，配置了我常用的插件，已汉化
 7、ok
 
 
-*注：如果想配置自己的sublime，请看 <a href="配置自己的sublime.md">配置自己的sublime.md</a>*
+*注：如果想自己配置sublime，请看 <a href="配置自己的sublime.md">配置自己的sublime.md</a>*
