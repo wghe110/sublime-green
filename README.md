@@ -2,7 +2,7 @@
 sublime text 3版本，配置了我常用的插件，已汉化
 
 ###使用方法
-1、下载项目
+1、下载项目包http://pan.baidu.com/s/1i5ronjv
 
 2、安装项目目录里面的sublime text 3安装包，一路next，傻瓜安装
 
