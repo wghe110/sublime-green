@@ -23,7 +23,7 @@ https://packagecontrol.io/packages/Theme%20-%20Flatland
 
 ####四、安装插件
 
-<font color=red>Package Control</font>
+<span style="color:red">Package Control</span>
 
     CTRL+`
 
@@ -31,7 +31,7 @@ https://packagecontrol.io/packages/Theme%20-%20Flatland
 
     import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())
 
-<font color=red>Emmet</font>
+<span style="color:red">Emmet</span>
 
 功能：编码快捷键，前端必备
 
@@ -41,7 +41,7 @@ https://packagecontrol.io/packages/Theme%20-%20Flatland
 
 <img src="配置自己的sublime/gif/emmet.gif" />
 
-<font color=red>JSFormat</font>
+<span style="color:red">JSFormat</span>
 
 功能：Javascript的代码格式化插件
 
@@ -51,7 +51,7 @@ https://packagecontrol.io/packages/Theme%20-%20Flatland
 
 <img src="配置自己的sublime/gif/jsFormat.gif" />
 
-<font color=red>Bracket Highlighter</font>
+<span style="color:red">Bracket Highlighter</span>
 
 功能：代码匹配
 
@@ -61,7 +61,7 @@ https://packagecontrol.io/packages/Theme%20-%20Flatland
 
 <img src="配置自己的sublime/gif/BracketHighlighter.gif" />
 
-<font color=red>jQuery</font>
+<span style="color:red">jQuery</span>
 
 功能：jQ函数提示
 
@@ -69,7 +69,7 @@ https://packagecontrol.io/packages/Theme%20-%20Flatland
 
 <img src="配置自己的sublime/gif/jquery.gif" />
 
-<font color=red>Doc​Blockr</font>
+<span style="color:red">Doc​Blockr</span>
 
 功能：生成优美注释
 
@@ -79,7 +79,7 @@ https://packagecontrol.io/packages/Theme%20-%20Flatland
 
 <img src="配置自己的sublime/gif/Doc​Blockr.gif" />
 
-<font color=red>ConvertToUTF8</font>
+<span style="color:red">ConvertToUTF8</span>
 
 功能：文件转码成utf-8
 
@@ -89,7 +89,7 @@ https://packagecontrol.io/packages/Theme%20-%20Flatland
 
 <img src="配置自己的sublime/gif/ConvertToUTF8.gif" />
 
-<font color=red>AutoFileName</font>
+<span style="color:red">AutoFileName</span>
 
 功能：快捷输入文件名
 
@@ -99,7 +99,7 @@ https://packagecontrol.io/packages/Theme%20-%20Flatland
 
 <img src="配置自己的sublime/gif/AutoFileName.gif" />
 
-<font color=red>IMESupport</font>
+<span style="color:red">IMESupport</span>
 
 功能：sublime中文输入法
 
@@ -109,25 +109,25 @@ https://packagecontrol.io/packages/Theme%20-%20Flatland
 
 <img src="配置自己的sublime/gif/IMESupport.gif" />
 
-<font color=red>CSS3</font>
+<span style="color:red">CSS3</span>
 
 功能：支持css3高亮提示
 
 <img src="配置自己的sublime/gif/css3.gif" />
 
-<font color=red>scss</font>
+<span style="color:red">scss</span>
 
 功能：支持scss高亮提示
 
 <img src="配置自己的sublime/gif/scss.gif" />
 
-<font color=red>cssFormat</font>
+<span style="color:red">cssFormat</span>
 
 功能：对css进行格式化、美化
 
 <img src="配置自己的sublime/gif/cssformat.gif" />
 
-<font color=red>git</font>
+<span style="color:red">git</span>
 
 功能：git管理
 
@@ -135,19 +135,19 @@ https://packagecontrol.io/packages/Theme%20-%20Flatland
 
 <img src="配置自己的sublime/gif/git.png" />
 
-<font color=red>nodeJs</font>
+<span style="color:red">nodeJs</span>
 
 功能：nodeJs提示、高亮
 
 <img src="配置自己的sublime/gif/nodeJs.png" />
 
-<font color=red>markDown Editing</font>
+<span style="color:red">markDown Editing</span>
 
 功能：支持Markdown语法高亮；支持Github Favored Markdown语法；自带3个主题。
 
 <img src="配置自己的sublime/gif/markDown Editing.png" />
 
-<font color=red>OmniMarkupPreviwer</font>
+<span style="color:red">OmniMarkupPreviwer</span>
 
 功能：时在浏览器中预，而MarkdownPreview是需要手动生成的和F5的。览如果双屏的话，应该具有不错的体验。快捷键如下：
 Ctrl+Alt+O: Preview Markup in Browser.
@@ -156,7 +156,7 @@ Ctrl+Alt+C: Copy Markup as HTML.
 
 <img src="配置自己的sublime/gif/OmniMarkupPreviwer.gif" />
 
-<font color=red>FileDiffs</font>
+<span style="color:red">FileDiffs</span>
 
 功能：强大的比较代码不同工具
 
@@ -166,7 +166,7 @@ Ctrl+Alt+C: Copy Markup as HTML.
 
 <img src="配置自己的sublime/gif/FileDiffs.gif" />
 
-<font color=red>持续更新中.......</font>
+<span style="color:red">持续更新中.......</span>
 
 
 参考资料：http://www.zhuowenli.com/diary/sublime-plugin.html
